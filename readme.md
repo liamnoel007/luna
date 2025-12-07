@@ -7,7 +7,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <url>
+git clone https://github.com/liamnoel007/luna.git
 cd project
 ```
 
